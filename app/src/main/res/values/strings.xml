@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Registrasi</string>
+
+    <string name="nameError">Harap masukkan nama Anda</string>
+    <string name="mobileError">Harap masukkan nomor ponsel Anda</string>
+    <string name="addressError">Harap masukkan alamat Anda</string>
+    <string name="zipCodeError">Harap masukkan kode pos Anda</string>
+    <string name="passwordError">Harap masukkan password Anda</string>
+    <string name="rePasswordError">Harap masukkan password yang sama</string>
+
+</resources>
