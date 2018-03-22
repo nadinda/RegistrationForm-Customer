@@ -3,5 +3,10 @@
     <color name="colorPrimary">#20B05D</color>
     <color name="colorPrimaryDark">#17A352</color>
     <color name="colorAccent">#828282</color>
+    <color name="stateBackgroundColor">#F2F2F2</color>
+    <color name="stateForegroundColor">#20B05D</color>
+    <color name="demo_state_foreground_color">#808080</color>
+    <color name="description_foreground_color">#20B05D</color>
+    <color name="description_background_color">#20B05D</color>
     <color name="textColorPrimary"></color>
 </resources>
